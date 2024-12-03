@@ -1,5 +1,9 @@
 # JokeGenerator
 
+Tutorial followed: https://www.geeksforgeeks.org/joke-generator-app-using-angular/
+
+![alt text](image.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
 
 ## Development server
